@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-/front-hotel/
+
 # dependencies
-/node_modules
+/front-hotel/node_modules
 /.pnp
 .pnp.*
 .yarn/*
@@ -13,8 +13,8 @@
 /coverage
 
 # next.js
-.next/
-/out/
+/front-hotel/.next/
+/front-hotel/out/
 
 # production
 /build
